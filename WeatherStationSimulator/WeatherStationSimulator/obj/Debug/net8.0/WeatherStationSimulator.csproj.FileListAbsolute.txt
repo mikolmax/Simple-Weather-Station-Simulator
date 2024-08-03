@@ -1,0 +1,14 @@
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.exe
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.deps.json
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.runtimeconfig.json
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.dll
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\bin\Debug\net8.0\WeatherStationSimulator.pdb
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.AssemblyInfo.cs
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.csproj.CoreCompileInputs.cache
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.dll
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\refint\WeatherStationSimulator.dll
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.pdb
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\WeatherStationSimulator.genruntimeconfig.cache
+C:\Users\alfon\source\repos\WeatherStationSimulator\WeatherStationSimulator\obj\Debug\net8.0\ref\WeatherStationSimulator.dll
